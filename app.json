@@ -12,6 +12,11 @@
       "resizeMode": "contain",
       "backgroundColor": "#FF6B9D"
     },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/icon.png"
+    },
     "android": {
       "package": "com.readytoread.app",
       "versionCode": 1,
